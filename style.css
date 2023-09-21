@@ -89,7 +89,7 @@
     content: 'SEC';
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:425px) {
     .hero{
         width: 100vw;
     }
